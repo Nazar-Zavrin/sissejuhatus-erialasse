@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+    color: #32a834;
+    font-size: 200%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    color: grey;
+}
+.pilt {
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.5);
+    width: 50%;
+}
+.head {
+    color: aqua;
+}
+.row {
+    column-count: 2;
+}
